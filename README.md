@@ -22,7 +22,9 @@
 <br/>
 
 - 앱 인벤터 설계<br/>
-![image](https://user-images.githubusercontent.com/81798918/200742924-fd4f419c-414d-454e-8630-a92398ee924a.png)
+![image](https://user-images.githubusercontent.com/81798918/131225679-3a58b674-49a2-400b-b376-ae8573b05c72.png)
+![image](https://user-images.githubusercontent.com/81798918/131225687-ac9a6f4a-843a-4e2f-a25c-edd54f591df8.png)
+
 <br/>
 
 - 앱 인벤터 블록 코딩<br/>
@@ -45,8 +47,5 @@
 
 
 
-# 앱 인벤터 화면 구성
-![image](https://user-images.githubusercontent.com/81798918/131225679-3a58b674-49a2-400b-b376-ae8573b05c72.png)
-![image](https://user-images.githubusercontent.com/81798918/131225687-ac9a6f4a-843a-4e2f-a25c-edd54f591df8.png)
 
 
